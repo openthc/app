@@ -1,0 +1,35 @@
+{
+	"name": "openthc/app",
+	"description": "OpenTHC Web Application",
+	"license": "GPL-3.0-only",
+	"autoload": {
+		"psr-4": {
+			"App\\": "./lib"
+		}
+	},
+	"require": {
+		"php": ">=7.3.0",
+		"edoceo/lowline_php": "dev-master",
+		"edoceo/radix": "dev-master",
+		"endroid/qr-code": "3.9.1",
+		"erusev/parsedown-extra": "0.8.1",
+		"geoip2/geoip2": "2.11.0",
+		"google/apiclient": "2.9.1",
+		"league/oauth2-client": "2.6.0",
+		"openthc/common": "dev-master",
+		"openthc/cre-adapter": "dev-master",
+		"phpoffice/phpspreadsheet": "1.16.0",
+		"quickbooks/v3-php-sdk": "5.4.7",
+		"setasign/fpdf": "1.8.2",
+		"setasign/fpdi": "2.3.6",
+		"tecnickcom/tcpdf": "6.3.5"
+	},
+	"require-dev": {
+		"behat/behat": "3.7.0",
+		"php-webdriver/webdriver": "1.9.0",
+		"phpmd/phpmd": "2.9.1",
+		"phpstan/phpstan": "0.12.76",
+		"phpunit/phpunit": "9.5.2",
+		"sebastian/phpcpd": "6.0.3"
+	}
+}
