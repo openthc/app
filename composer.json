@@ -9,9 +9,9 @@
 	},
 	"require": {
 		"php": ">=7.3.0",
-		"edoceo/lowline_php": "dev-master",
-		"edoceo/radix": "dev-master",
-		"endroid/qr-code": "3.9.1",
+		"edoceo/lowline": "2022.0.266",
+		"edoceo/radix": "2021.0.0",
+		"endroid/qr-code": "4.4.9",
 		"geoip2/geoip2": "2.12.2",
 		"google/apiclient": "2.12.5",
 		"league/oauth2-client": "2.6.1",
@@ -19,7 +19,7 @@
 		"openthc/cre-adapter": "dev-master",
 		"phpoffice/phpspreadsheet": "1.23.0",
 		"quickbooks/v3-php-sdk": "5.4.7",
-		"setasign/fpdf": "1.8.2",
+		"setasign/fpdf": "1.8.4",
 		"setasign/fpdi": "2.3.6",
 		"tecnickcom/tcpdf": "6.4.4"
 	},
