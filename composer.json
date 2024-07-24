@@ -18,21 +18,20 @@
 		"edoceo/radix": "2021.0.0",
 		"endroid/qr-code": "4.4.9",
 		"geoip2/geoip2": "2.13.0",
-		"google/apiclient": "2.12.5",
-		"league/oauth2-client": "2.6.1",
-		"openthc/common": "dev-master",
-		"openthc/cre-adapter": "dev-master",
+		"google/apiclient": "2.14.0",
+		"league/oauth2-client": "2.7.0",
+		"openthc/common": "dev-main",
+		"openthc/cre-adapter": "dev-main",
 		"phpoffice/phpspreadsheet": "1.28.0",
 		"quickbooks/v3-php-sdk": "6.1.0",
 		"setasign/fpdf": "1.8.4",
 		"setasign/fpdi": "2.3.6",
-		"tecnickcom/tcpdf": "6.6.2"
+		"tecnickcom/tcpdf": "6.7.4"
 	},
 	"require-dev": {
-		"behat/behat": "3.12.0",
-		"php-webdriver/webdriver": "1.14.0",
-		"phpmd/phpmd": "2.13.0",
-		"phpstan/phpstan": "1.10.5",
-		"phpunit/phpunit": "9.6.4"
+		"php-webdriver/webdriver": "1.15.1",
+		"phpmd/phpmd": "2.15.0",
+		"phpstan/phpstan": "1.11.8",
+		"phpunit/phpunit": "9.6.20"
 	}
 }
